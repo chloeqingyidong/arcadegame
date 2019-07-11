@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+.hide {
+    display: none;
+}
+.modal {
+    display: block;
+    box-sizing: border-box; 
+    width: 400px;
+    background-color: rgb(247, 241, 241);
+    color: black;
+    padding: 20px;
+    margin: 50px;
+}
