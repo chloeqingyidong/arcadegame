@@ -42,5 +42,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 # Reference
-[Udacity](https://classroom.udacity.com/nanodegrees/nd001/parts/5b433748-71ae-488f-8eba-f102160cd17b/modules/794adb78-22bb-4a38-85cd-6fa148ebc28a/lessons/64d2cad8-b230-41da-ba90-5b74f33176cc/concepts/59a9fe1d-cab4-4256-8479-4550ce4f4cfd)
-[tutorial](https://matthewcranford.com/)
+* [Udacity](https://classroom.udacity.com/nanodegrees/nd001/parts/5b433748-71ae-488f-8eba-f102160cd17b/modules/794adb78-22bb-4a38-85cd-6fa148ebc28a/lessons/64d2cad8-b230-41da-ba90-5b74f33176cc/concepts/59a9fe1d-cab4-4256-8479-4550ce4f4cfd)
+* [tutorial](https://matthewcranford.com/)
