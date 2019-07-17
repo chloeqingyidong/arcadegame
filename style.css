@@ -2,7 +2,7 @@ body {
     text-align: center;
 }
 .hide {
-    display: none;
+    display: none !important;
 }
 .modal {
     display: block;
